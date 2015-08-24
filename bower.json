@@ -1,0 +1,10 @@
+{
+  "name": "fasta2json",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Josemi Juanes <jmjuanes@outlook.com>",
+  "ignore": ["package.json"],
+  "repository": {"type": "git", "url": "git://github.com/jmjuanes/fasta2json.git"},
+  "license": "MIT",
+  "keywords": ["fasta2json", "fasta", "json", "bioinformatics"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fasta2json",
+  "version": "0.1.0",
+  "description": "Converts fasta file/string to a json object.",
+   "main": "index.js",
+  "author": "Josemi Juanes <jmjuanes@outlook.com>",
+  "license": "MIT",
+  "files": ["LICENSE", "CHANGELOG.md", "README.md", "index.js", "lib/"],
+  "dependencies": {"xml2json": "0.8.2"},
+  "repository": {"type": "git", "url": "git://github.com/jmjuanes/fasta2json.git"},
+  "keywords": ["fasta2json", "fasta", "json", "bioinformatics"]
+}
