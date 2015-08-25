@@ -1,4 +1,4 @@
-Release notes v0.1.0
+Release notes v0.1.1
 
 # fasta2json
 
