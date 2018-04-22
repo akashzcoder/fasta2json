@@ -51,7 +51,7 @@ Returns a string with the fasta format from an JSON object.
 ```
 //JSON object
 var json = [
-{ "head": "seq1", "seq": "ACCTAAGCTTAGCCAAAGTCCAGAACCACAGT"}
+{ "head": "seq1", "seq": "ACCTAAGCTTAGCCAAAGTCCAGAACCACAGT"},
 { "head": "seq2", "seq": "AACTTTGGTTAAACACATGGATCCAGTTTGAC"}
 ];
 
